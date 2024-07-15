@@ -10,8 +10,8 @@
       "surnames": "Antonio Oyono A.",
       "title": "Estudiante en Université Jean Monnet Saint-Etienne",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/6f0fe0f9-e102-433a-8ff3-56012c1f0335_linkedin-photo-65166.linkedin-photo-65166",
-        "alt": "24/07/15/6f0fe0f9-e102-433a-8ff3-56012c1f0335_linkedin-photo-65166.linkedin-photo-65166"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/86c55b35-1302-4761-b649-fe4430945a09_linkedin-photo-65166.linkedin-photo-65166",
+        "alt": "24/07/15/86c55b35-1302-4761-b649-fe4430945a09_linkedin-photo-65166.linkedin-photo-65166"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ4x60DS2JQQ0Rz8L9kb39zlY)",
@@ -24,6 +24,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/jose-antonio-oyono-a-972b1214a"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/gcorona72"
       }
     ]
   },
@@ -62,8 +66,8 @@
         "institution": {
           "name": "Coursera",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/27d61fca-b509-4ca8-b523-aa11109441a3_linkedin-photo-65166.linkedin-photo-65166",
-            "alt": "24/07/15/27d61fca-b509-4ca8-b523-aa11109441a3_linkedin-photo-65166.linkedin-photo-65166"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/bb9099c2-f5f3-46c7-8d8a-f7cb55fa3682_linkedin-photo-65166.linkedin-photo-65166",
+            "alt": "24/07/15/bb9099c2-f5f3-46c7-8d8a-f7cb55fa3682_linkedin-photo-65166.linkedin-photo-65166"
           }
         },
         "finishDate": "2021-11-30"
@@ -76,8 +80,8 @@
         "institution": {
           "name": "Universidad Alfonso X El Sabio",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/52d481cc-9576-4131-b8fe-944656727210_linkedin-photo-65166.linkedin-photo-65166",
-            "alt": "24/07/15/52d481cc-9576-4131-b8fe-944656727210_linkedin-photo-65166.linkedin-photo-65166"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/75fca46b-96e3-4f0b-a3ca-f72cbcc832f7_linkedin-photo-65166.linkedin-photo-65166",
+            "alt": "24/07/15/75fca46b-96e3-4f0b-a3ca-f72cbcc832f7_linkedin-photo-65166.linkedin-photo-65166"
           }
         },
         "finishDate": "2026-09-30"
@@ -110,6 +114,10 @@
         {
           "URL": "https://linkedin.com/in/jose-antonio-oyono-a-972b1214a",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/gcorona72",
+          "type": "github"
         }
       ],
       "contactMails": [
