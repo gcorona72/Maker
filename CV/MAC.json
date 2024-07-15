@@ -71,6 +71,12 @@
       },
       {
         "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C",
           "type": "technology"
         }
@@ -120,6 +126,18 @@
       {
         "skill": {
           "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
           "type": "technology"
         }
       },
