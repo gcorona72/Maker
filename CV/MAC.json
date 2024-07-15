@@ -1,0 +1,229 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jose Antonio",
+      "surnames": "Oyono A.",
+      "title": "Estudiante de Ingeniería Informática",
+      "description": "\nSoy un estudiante de Ingeniería Informática apasionado por la tecnología y el desarrollo de software. Domino varios lenguajes de programación, incluidos C, Python, Java, JavaScript, y más. Mi experiencia abarca diversas especialidades, tales como administración de bases de datos, ciberseguridad, redes y desarrollo web. Busco nuevas oportunidades y desafíos que me permitan aplicar mis habilidades y conocimientos en proyectos innovadores y de alto impacto.\n\nMis principales aptitudes incluyen un dominio sólido de lenguajes de programación como C, Python, Java, JavaScript, HTML/CSS y SQL. También tengo experiencia con frameworks y librerías como React, Node.js, Django y Spring Boot, y estoy familiarizado con herramientas y tecnologías como Git, Docker, Kubernetes y AWS.\n\nAnte los retos y problemas, mantengo una actitud proactiva y resolutiva. Disfruto enfrentándome a desafíos complejos, y mi enfoque siempre está orientado hacia la búsqueda de soluciones eficientes y efectivas. Estoy comprometido con el aprendizaje continuo y la mejora constante, siempre dispuesto a enfrentar y superar nuevos retos en el campo de la informática.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/14/6613a448-0ff2-48ff-987c-3c092b448670_linkedin-photo-65166.linkedin-photo-65166",
+        "alt": "24/07/14/6613a448-0ff2-48ff-987c-3c092b448670_linkedin-photo-65166.linkedin-photo-65166"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ4x60DS2JQQ0Rz8L9kb39zlY)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Alcorcón"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jose-antonio-oyono-a-972b1214a"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS-Admin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Airtable",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CMake",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cisco",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Slack",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CERTIFICADO, Comercio electrónico",
+        "startDate": "2020-11-01",
+        "institution": {
+          "name": "Google Activate"
+        },
+        "finishDate": "2021-02-28"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Certificado, Fundations: Data Analitycs",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Coursera",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/14/c2f3a978-f1a6-4c67-9608-7ef6c93f8e1b_linkedin-photo-65166.linkedin-photo-65166",
+            "alt": "24/07/14/c2f3a978-f1a6-4c67-9608-7ef6c93f8e1b_linkedin-photo-65166.linkedin-photo-65166"
+          }
+        },
+        "finishDate": "2021-11-30"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/jose-antonio-oyono-a-972b1214a",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "joyon@myuax.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Software Architect"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Office 365",
+        "type": "technology"
+      },
+      {
+        "name": "Notion",
+        "type": "technology"
+      },
+      {
+        "name": "Slack",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal es un entorno dinámico y desafiante donde pueda aplicar mis conocimientos y habilidades en ingeniería informática mientras continúo aprendiendo y creciendo profesionalmente. Busco un lugar que valore la innovación y fomente un ambiente colaborativo, donde el aprendizaje continuo sea una prioridad y se brinden oportunidades para enfrentar problemas complejos y desarrollar soluciones creativas.\n\nDeseo formar parte de un equipo multidisciplinario, rodeado de profesionales talentosos y apasionados por la tecnología, con quienes pueda intercambiar ideas y conocimientos. Me motiva la posibilidad de trabajar en proyectos innovadores que tengan un impacto significativo, utilizando las últimas tecnologías y metodologías ágiles."
+  }
+}
