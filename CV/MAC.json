@@ -6,13 +6,12 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Jose Antonio",
-      "surnames": "Oyono A.",
-      "title": "Estudiante de Ingeniería Informática",
-      "description": "\nSoy un estudiante de Ingeniería Informática apasionado por la tecnología y el desarrollo de software. Domino varios lenguajes de programación, incluidos C, Python, Java, JavaScript, y más. Mi experiencia abarca diversas especialidades, tales como administración de bases de datos, ciberseguridad, redes y desarrollo web. Busco nuevas oportunidades y desafíos que me permitan aplicar mis habilidades y conocimientos en proyectos innovadores y de alto impacto.\n\nMis principales aptitudes incluyen un dominio sólido de lenguajes de programación como C, Python, Java, JavaScript, HTML/CSS y SQL. También tengo experiencia con frameworks y librerías como React, Node.js, Django y Spring Boot, y estoy familiarizado con herramientas y tecnologías como Git, Docker, Kubernetes y AWS.\n\nAnte los retos y problemas, mantengo una actitud proactiva y resolutiva. Disfruto enfrentándome a desafíos complejos, y mi enfoque siempre está orientado hacia la búsqueda de soluciones eficientes y efectivas. Estoy comprometido con el aprendizaje continuo y la mejora constante, siempre dispuesto a enfrentar y superar nuevos retos en el campo de la informática.",
+      "name": "Jose",
+      "surnames": "Antonio Oyono A.",
+      "title": "Estudiante en Université Jean Monnet Saint-Etienne",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/14/6613a448-0ff2-48ff-987c-3c092b448670_linkedin-photo-65166.linkedin-photo-65166",
-        "alt": "24/07/14/6613a448-0ff2-48ff-987c-3c092b448670_linkedin-photo-65166.linkedin-photo-65166"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/6d756821-f9be-4288-85e5-5c04cfe8fb43_linkedin-photo-65166.linkedin-photo-65166",
+        "alt": "24/07/15/6d756821-f9be-4288-85e5-5c04cfe8fb43_linkedin-photo-65166.linkedin-photo-65166"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ4x60DS2JQQ0Rz8L9kb39zlY)",
@@ -24,7 +23,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jose-antonio-oyono-a-972b1214a"
+        "URL": "https://linkedin.com/in/jose-antonio-oyono-a-972b1214a"
       }
     ]
   },
@@ -177,7 +176,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/jose-antonio-oyono-a-972b1214a",
+          "URL": "https://linkedin.com/in/jose-antonio-oyono-a-972b1214a",
           "type": "linkedin"
         }
       ],
