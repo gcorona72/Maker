@@ -10,8 +10,8 @@
       "surnames": "Antonio Oyono A.",
       "title": "Estudiante en Université Jean Monnet Saint-Etienne",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/6d756821-f9be-4288-85e5-5c04cfe8fb43_linkedin-photo-65166.linkedin-photo-65166",
-        "alt": "24/07/15/6d756821-f9be-4288-85e5-5c04cfe8fb43_linkedin-photo-65166.linkedin-photo-65166"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/6f0fe0f9-e102-433a-8ff3-56012c1f0335_linkedin-photo-65166.linkedin-photo-65166",
+        "alt": "24/07/15/6f0fe0f9-e102-433a-8ff3-56012c1f0335_linkedin-photo-65166.linkedin-photo-65166"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ4x60DS2JQQ0Rz8L9kb39zlY)",
@@ -48,79 +48,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS-Admin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Airtable",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CMake",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cisco",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Microsoft Office 365",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Power BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Notion",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Slack",
           "type": "technology"
         }
       }
@@ -129,26 +57,30 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "CERTIFICADO, Comercio electrónico",
-        "startDate": "2020-11-01",
-        "institution": {
-          "name": "Google Activate"
-        },
-        "finishDate": "2021-02-28"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Certificado, Fundations: Data Analitycs",
         "startDate": "2021-09-01",
         "institution": {
           "name": "Coursera",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/14/c2f3a978-f1a6-4c67-9608-7ef6c93f8e1b_linkedin-photo-65166.linkedin-photo-65166",
-            "alt": "24/07/14/c2f3a978-f1a6-4c67-9608-7ef6c93f8e1b_linkedin-photo-65166.linkedin-photo-65166"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/27d61fca-b509-4ca8-b523-aa11109441a3_linkedin-photo-65166.linkedin-photo-65166",
+            "alt": "24/07/15/27d61fca-b509-4ca8-b523-aa11109441a3_linkedin-photo-65166.linkedin-photo-65166"
           }
         },
         "finishDate": "2021-11-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería Informatica",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Universidad Alfonso X El Sabio",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/52d481cc-9576-4131-b8fe-944656727210_linkedin-photo-65166.linkedin-photo-65166",
+            "alt": "24/07/15/52d481cc-9576-4131-b8fe-944656727210_linkedin-photo-65166.linkedin-photo-65166"
+          }
+        },
+        "finishDate": "2026-09-30"
       }
     ],
     "softSkills": [
@@ -203,23 +135,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Docker",
-        "type": "technology"
-      },
-      {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
         "name": "Microsoft Office 365",
-        "type": "technology"
-      },
-      {
-        "name": "Notion",
-        "type": "technology"
-      },
-      {
-        "name": "Slack",
         "type": "technology"
       }
     ],
